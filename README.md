@@ -4,7 +4,7 @@ Personal URL shortener
 
 - based on [cassidoo/cass.run](https://github.com/cassidoo/cass.run),
 - which is based on [kentcdodds/netlify-shortener-example](https://github.com/kentcdodds/netlify-shortener-example)
-- which uses [kentcdodds/netlify-shortener](https://github.com/kentcdodds/netlify-shortener))
+- which uses [kentcdodds/netlify-shortener](https://github.com/kentcdodds/netlify-shortener)
 
 ## Usage
 
