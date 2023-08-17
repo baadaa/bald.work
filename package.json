@@ -1,10 +1,10 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://bald.work",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "cassidoo",
+  "author": "Bumhan Yu <bumhan.yu@gmail.com>",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
   }
